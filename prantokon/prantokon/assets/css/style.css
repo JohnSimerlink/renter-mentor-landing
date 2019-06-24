@@ -1,5 +1,5 @@
 /*
-Theme Name: Prantokon
+Theme Name: Renter Mentor
 Version: 1.0
 Author: Jsoft
 Description: Responsive HTML5 / CSS3 One-page Landing App Template.
@@ -1085,7 +1085,7 @@ h4.post-title a {
     border: 1px solid #bbb;
 }
 .contact-form button {
-	transition: all 0.4s; 
+	transition: all 0.4s;
 }
 .blog-reply button:hover ,
 .contact-form button:hover {
